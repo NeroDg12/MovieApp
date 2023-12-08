@@ -72,3 +72,11 @@ Miles Morales catapults across the Multiverse, where he encounters a team of Spi
 </div>
 
 </div> */}
+
+
+<div className='w-full'>
+  <img className=' h-[25rem] object-contain rounded-lg hover:h-[27rem] w-[20rem]' 
+  src={value.poster} alt="" /> 
+</div>
+
+[#0d1829]
