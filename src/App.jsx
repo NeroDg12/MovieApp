@@ -6,7 +6,7 @@ export default function App() {
     <>
       <div  >
         <h1 className="text-3xl  pt-4 text-white">Movies</h1>
-        <div className="flex">
+        <div className="flex ">
           <MovieList/>
         </div>  
 
